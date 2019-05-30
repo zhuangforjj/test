@@ -5,7 +5,7 @@
   import java.sql.SQLException;
   
  /**
-  * @author Administrator
+  * @author 吉吉
   * 
   */
  public class DBUtil {
